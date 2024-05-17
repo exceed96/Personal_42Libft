@@ -13,7 +13,7 @@ c언어 라이브러리에 만들어져 있는 44개의 함수를 제한된 조�
 
 ##  ☑️ 스택
 
-<img src="https://github.com/exceed96/Personal_42Libft/assets/90549959/5c7c2c98-78af-4d14-96da-dcc8a8b9270b" width="300" height="150" />
+<img src="https://github.com/exceed96/Personal_42Libft/assets/90549959/5c7c2c98-78af-4d14-96da-dcc8a8b9270b" width="200" height="100" />
 
 
 <br />
