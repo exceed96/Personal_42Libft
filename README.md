@@ -20,4 +20,4 @@ c언어 라이브러리에 만들어져 있는 44개의 함수를 제한된 조�
 
 ## ☑️ 정리 내용
 
-[👉노션 바로가기]([https://leebo-ram.github.io/Navbar/](https://www.notion.so/a466d432d2f24dc9a367832e1206c1f9?v=269bb5f9b5de4cba8015271f939df121&pvs=4))
+[👉노션 바로가기](https://www.notion.so/a466d432d2f24dc9a367832e1206c1f9?v=269bb5f9b5de4cba8015271f939df121&pvs=4)
