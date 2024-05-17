@@ -1,4 +1,4 @@
-# 42_Libft
+# 📜42_Libft
 
 <strong>atoi</strong>, <strong>bzero</strong>, <strong>calloc</strong>, <strong>memcpy</strong> , <strong>strlen</strong> 등등 c언어 라이브러리에 만들어져 있는 44개의 함수를 직접 만들어보는 과제
 
